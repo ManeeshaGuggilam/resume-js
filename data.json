@@ -1,0 +1,74 @@
+{
+  "profiles": [
+    {
+      "basics": {
+        "name": "Krishna N",
+        "role": "MERN Developer",
+        "email": "krishna.n@apssdc.in",
+        "mobile": "5689898656",
+        "gender": "male",
+        "address": "Amaravati,AP"
+      },
+      "summary": [
+        "Having 5+ years of experience in software industry.Started as a web-Designer",
+        "Having knowledge on Frontend technologies like HTML5,CSS3 and javascript",
+        "Having knowledge on libraries like React,JQuery,Howler,Highcharts",
+        "worked on backend technologies suchas PHP,python and node",
+        "used different kinds of frameworks for backend i.e; Codeigniter,Django and Express",
+        "used DataBases like mysql,mongo,postgresql,oracle and firebase"
+      ],
+      "education": [
+        {
+          "degree": "B.tech(CSE)",
+          "institute": "RVR & JC",
+          "result": "75%"
+        },
+        {
+          "degree": "Intermediate(MPC)",
+          "institute": "Vignana Bharathi Junior College",
+          "result": "90%"
+        },
+        {
+          "degree": "SSC",
+          "institute": "Vedamatha English medium School",
+          "result": "93%"
+        }
+      ]
+    },
+    {
+      "basics": {
+        "name": "Radha P",
+        "role": "MEAN Developer",
+        "email": "radha.p@apssdc.in",
+        "gender": "female",
+        "mobile": "95487515154",
+        "address": "Amaravati,AP"
+      },
+      "summary": [
+        "Having 4+ years of experience in software industry.Started as a web-Designer",
+        "Having knowledge on Frontend technologies like HTML5,CSS3 and javascript",
+        "Having knowledge on libraries like React and JQuery",
+        "worked on backend technologies suchas python and node",
+        "used different kinds of frameworks for backend i.e; Django and Express",
+        "used DataBases like mysql,mongo and firebase"
+      ],
+      "education": [
+        {
+          "degree": "B.Tech(CSE)",
+          "institute": "RVR & JC",
+          "result": "85%"
+        },
+        {
+          "degree": "Intermediate(MPC)",
+          "institute": "Vignana Bharathi Junior College",
+          "result": "93%"
+        },
+        {
+          "degree": "SSC",
+          "institute": "Vedamatha English medium School",
+          "result": "97%"
+        }
+      ]
+    }
+   ]
+}
